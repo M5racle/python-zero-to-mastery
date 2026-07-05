@@ -4,31 +4,20 @@
 #print(name)
 #print(age)
 
-
-
-iq = 190
-
-user_age = iq/4
-
-a = user_age 
-
-print(a)
-
-
+#iq = 190
+#user_age = iq/4
+#a = user_age
+#print(a)
 
 #constants
+#PI = 3.14
+#PI = 0
+#print(PI)
+
+#a,b,c = 1,2,3
+#print(a)
+#print(b)
+#print(c)
 
 
-PI = 3.14
-PI = 0
-
-print(PI)
-
-
-
-
-a,b,c = 1,2,3
-
-print(a)
-print(b)
-print(c)
+# Lecture 28: Expressions vs Statements
