@@ -15,6 +15,22 @@
 #full_name = first_name + ' ' + last_name
 #print(full_name)
 
+# Lecture 31: String Concatenation
+
+#'hello' + 'Wayne'
+#print( 'Hello'  + ' Wayne' )  
+ 
+#Lecture 32: Type Conversion
+
+#print(type(str(100)))
+#print(type(int(str(100))))
+
+#a = str(100)
+#b = int(a)
+#c = type(b)
+#print(c)
+
+
 
 
 
