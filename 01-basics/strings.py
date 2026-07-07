@@ -43,16 +43,23 @@
 
 # Lecture 34: Formatted Strings
 
+#name = 'Wayne'
+#age = 42
+#print('Hi, ' + name + '. You are ' + str(age) + ' years old.')
 
+#name = 'Wayne'
+#age = 42
+#print(f'Hi, {name}. You are {age} years old.')
 
+#name = 'Wayne'
+#age = 42
+#print('Hi, {}. You are {} years old.'.format(name, age))
 
+#name = 'Wayne'
+#age = 42
+#print('Hi, {new_name}. You are {age} years old.'.format (new_name='Jerome', age=21))
 
-
-
-
-
-
-
+# Lecture 35: String Indexes
 
 
 
