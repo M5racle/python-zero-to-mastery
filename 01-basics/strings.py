@@ -30,6 +30,41 @@
 #c = type(b)
 #print(c)
 
+# Lecture 33: Escape Sequences
+
+#weather = "It\'s \"kind of\"  sunny" 
+#print(weather) 
+
+#weather2 = "\tIt\'s \"kind of\"  sunny"
+#print(weather2)
+
+#weather = "\t It's \"kind of\" sunny \n Hope you have a great day"
+#print(weather) 
+
+# Lecture 34: Formatted Strings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
