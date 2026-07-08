@@ -61,15 +61,16 @@
 
 # Lecture 35: String Indexes
 
+#selfish = 'me me me'
+        #  01234567
+# [start:stop]
+#print(selfish[7]) 
 
 
-
-
-
-
-
-
-
+#selfish = '01234567'
+        #  01234567
+# [start:stop:stepover]
+#print(selfish[0:8:2])
 
 
 
