@@ -72,6 +72,19 @@
 # [start:stop:stepover]
 #print(selfish[0:8:2])
 
+# Lecture 36: Immutability
+
+#selfish = '01234567' 
+         #  01234567
+#selfish[0] = '8'
+#print(selfish)
+
+# String are immutable, meaning they cannot be changed. You can create a new string based on the old one, but you cannot change the original string in place.
+
+#selfish = '01234567'
+         #  01234567
+#selfish = selfish + '8'
+#print(selfish)
 
 
 
