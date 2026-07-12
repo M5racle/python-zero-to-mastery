@@ -13,6 +13,16 @@
 
 
 
+#Lecture 38: Booleans
+
+#booleans
+
+#name = 'Wayne'
+#is_cool = True
+#is_cool = False
+#print(bool(1))
+#print(bool('True'))
+
 
 
 
