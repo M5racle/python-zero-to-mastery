@@ -24,6 +24,20 @@
 #print(bool('True'))
 
 
+#Lecture 39: Exercise Type Conversion
+#name = 'Wayne'
+#age = 42
+#relationship_status = 'not sinbgle'
+#relationship_status = 'in relationship'
+#print(relationship_status)
+
+#birth_year = input('What year were you born?')
+#age = 2026 - int(birth_year)
+#print(f'Your age is: {age}') 
+
+
+
+
 
 
 
