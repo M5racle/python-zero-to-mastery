@@ -35,6 +35,29 @@
 #age = 2026 - int(birth_year)
 #print(f'Your age is: {age}') 
 
+# ==========================================
+# Lecture 40: Developer Fundamentals II
+# Topic: Best Practices for Using Comments
+# ==========================================
+
+# RULE 1: Comments should add extra context, not just repeat the code.
+# Bad:  print(name)  # Prints the name
+# Good: The calculation below accounts for a 5% system latency delay.
+
+# RULE 2: Use inline comments sparingly. 
+# Keep them on the same line only for quick, small notes.
+#counter = 0  # Tracks the number of login attempts
+
+# RULE 3: Keep comments up-to-date.
+# Code changes often! An outdated comment is worse than no comment at all.
+
+# RULE 4: Write clean, readable code first.
+# If your code is too confusing and requires a massive paragraph to explain,
+# it's usually better to rewrite the code to be simpler, rather than write more comments.
+
+# Rule 5: Use block comments for sections or summaries.
+# Use multiple lines of comments right before a block of code to explain 
+# the overall purpose of a complex function, algorithm, or file logic.
 
 
 
